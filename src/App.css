@@ -1,0 +1,20 @@
+.App {
+  /* ff 3.6+ */
+    background: -moz-radial-gradient(circle at 47% 45%, rgba(255, 255, 0, 1) 0%, rgba(4, 46, 80, 1) 0%, rgba(20, 17, 20, 1) 100%);
+  
+    /* safari 5.1+,chrome 10+ */
+    background: -webkit-radial-gradient(circle at 47% 45%, rgba(255, 255, 0, 1) 0%, rgba(4, 46, 80, 1) 0%, rgba(20, 17, 20, 1) 100%);
+  
+    /* opera 11.10+ */
+    background: -o-radial-gradient(circle at 47% 45%, rgba(255, 255, 0, 1) 0%, rgba(4, 46, 80, 1) 0%, rgba(20, 17, 20, 1) 100%);
+  
+    /* ie 10+ */
+    background: -ms-radial-gradient(circle at 47% 45%, rgba(255, 255, 0, 1) 0%, rgba(4, 46, 80, 1) 0%, rgba(20, 17, 20, 1) 100%);
+  
+    /* global 92%+ browsers support */
+    background: radial-gradient(circle at 47% 45%, rgba(255, 255, 0, 1) 0%, rgba(4, 46, 80, 1) 0%, rgba(20, 17, 20, 1) 100%);
+
+    width: 350px;
+    /* height: 90vh; */
+}
+
